@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"regexp"
 
-	"go_learning_git/search"
+	"github.com/QingminChen/go_learning_git/search"
 )
 
 type (
